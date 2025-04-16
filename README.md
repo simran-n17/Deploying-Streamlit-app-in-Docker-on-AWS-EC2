@@ -1,5 +1,7 @@
 # 🚀 Deploying a Streamlit App in Docker on AWS EC2
 
+Streamlit link: https://deploying-app-app-in-docker-on-aws-ec2-xxe6darxljffo9l4pbk4df.streamlit.app/
+
 ## 📌 Overview
 This guide provides a step-by-step approach to deploying a Streamlit app inside a Docker container on an AWS EC2 instance with a custom network setup. It covers:
 
